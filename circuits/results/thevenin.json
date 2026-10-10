@@ -1,0 +1,14 @@
+{
+  "Voc_theory_V": 8.0,
+  "Voc_sim_V": 8.0,
+  "Isc_theory_A": 0.012,
+  "Isc_sim_A": 0.012,
+  "Rth_theory_ohm": 666.6666666666666,
+  "Rth_sim_ohm": 666.6666666666666,
+  "VL_theory_V": 4.800000000000001,
+  "VL_original_sim_V": 4.8,
+  "VL_equivalent_sim_V": 4.8,
+  "IL_theory_A": 0.0048000000000000004,
+  "IL_original_sim_A": 0.0048,
+  "IL_equivalent_sim_A": 0.0048
+}
